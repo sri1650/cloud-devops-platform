@@ -52,7 +52,9 @@ cloud-devops-platform
 │   └── github-actions.yml
 │
 ├── architecture.md
-└── README.md
+└── README.md///
+
+
 ### 1. Clone the repository
 
 ```bash
