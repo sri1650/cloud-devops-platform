@@ -33,3 +33,6 @@ This project demonstrates a production-style DevOps platform where infrastructur
 ## Architecture
 
 [View Platform Architecture](./architecture.md)
+## Architecture
+
+![Architecture](architecture.png)
