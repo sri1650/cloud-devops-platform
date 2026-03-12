@@ -33,3 +33,16 @@ This project demonstrates a production-style DevOps platform where infrastructur
 ## Architecture
 
 [View Platform Architecture](./architecture.md)
+## How to Run This Platform
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sri1650/cloud-devops-platform.git
+cd cloud-devops-platform
+terraform init
+terraform plan
+terraform apply
+kubectl apply -f kubernetes/
+kubectl get pods
+kubectl get services
