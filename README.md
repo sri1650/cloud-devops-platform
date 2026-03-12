@@ -34,7 +34,25 @@ This project demonstrates a production-style DevOps platform where infrastructur
 
 [View Platform Architecture](./architecture.md)
 ## How to Run This Platform
+## Project Structure
 
+```text
+cloud-devops-platform
+│
+├── terraform
+│   ├── main.tf
+│   ├── variables.tf
+│   └── outputs.tf
+│
+├── kubernetes
+│   ├── deployment.yaml
+│   └── service.yaml
+│
+├── ci-cd
+│   └── github-actions.yml
+│
+├── architecture.md
+└── README.md
 ### 1. Clone the repository
 
 ```bash
