@@ -30,3 +30,6 @@ This project demonstrates a production-style DevOps platform where infrastructur
 - Demonstrate end-to-end DevOps platform engineering
 - Combine cloud, CI/CD and orchestration in one project
 - Showcase production-style architecture
+## Architecture
+
+[View Platform Architecture](./architecture.md)
